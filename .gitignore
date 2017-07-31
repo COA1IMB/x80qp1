@@ -5,6 +5,7 @@ originalFiles
 *.zip
 *.bin
 
+
 # Development Environment
 .dev_env
 
